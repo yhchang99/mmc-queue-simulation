@@ -55,11 +55,11 @@ To compile and run the program, you must have a C compiler installed on your sys
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yhchang99/Waiting-time-distribution-for-the-M-M-m-queue
+git clone https://github.com/yhchang99/mmc-queue-simulation
 ```
 Navigate to the project directory:
 ```bash
-cd Waiting-time-distribution-for-the-M-M-c-queue
+cd mmc-queue-simulation
 ```
 
 ## Compile and run the program:
