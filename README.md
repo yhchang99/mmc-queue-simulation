@@ -48,7 +48,7 @@ L = r + L_q = r + \frac{r^c \rho p_0}{c!(1-\rho)^2}
     \end{align}
 ```
 
-This project is avaliable on: https://github.com/yhchang99/Waiting-time-distribution-for-the-M-M-m-queue
+This project is avaliable on: https://github.com/yhchang99/mmc-queue-simulation
 
 ## Installation
 To compile and run the program, you must have a C compiler installed on your system, such as `GCC` or `Clang`.
