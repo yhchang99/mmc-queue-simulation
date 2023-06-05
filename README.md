@@ -3,7 +3,7 @@
 ## Usage
 The M/M/c model is a fundamental queuing theory model that describes a single-server queue with Poisson arrivals and exponential service times. 
 
-![the picture of the M/M/c model](https://github.com/yhchang99/mmc-queue-simulation/blob/master/img/mmn.png)
+![the picture of the M/M/c model](https://github.com/yhchang99/mmc-queue-simulation/blob/main/img/mmn.png)
 
 - Arrival rate (λ): The average number of arrivals per unit of time.
 ```math
@@ -93,7 +93,7 @@ Mean of System  Time: 2.002891
 Mean of Waiting Time: 1.002525
 ```
 
-![the pdf of the waiting time](https://github.com/yhchang99/mmc-queue-simulation/blob/master/img/wait_time.png)
+![the pdf of the waiting time](https://github.com/yhchang99/mmc-queue-simulation/blob/main/img/wait_time.png)
 
 ## License
 MIT License
