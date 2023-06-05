@@ -1,7 +1,7 @@
 # README
 
 ## Usage
-The M/M/c model is a fundamental queuing theory model that describes a single-server queue with Poisson arrivals and exponential service times. 
+The M/M/c model is a fundamental queuing theory model that describes multiple servers queue with Poisson arrivals and exponential service times. 
 
 ![the picture of the M/M/c model](https://github.com/yhchang99/mmc-queue-simulation/blob/main/img/mmn.png)
 
